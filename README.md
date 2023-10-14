@@ -7,4 +7,5 @@ This repsository contains a simple web application, written in .NET, that displa
 - An Azure subscription
 - An Azure identity with permissions to deploy to the subscription
 - GitHub secrets for the Azure identity
+  [![Build Status](https://dev.azure.com/ganeshshiva1/Innovative%20Center/_apis/build/status%2FForties?branchName=main)](https://dev.azure.com/ganeshshiva1/Innovative%20Center/_build/latest?definitionId=2&branchName=main)
 
